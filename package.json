@@ -1,0 +1,24 @@
+{
+  "name": "xair",
+  "version": "0.0.1",
+  "description": "Interface library for OSC communication with the Behringer X AIR Series Digital Mixers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk115/xair.git"
+  },
+  "keywords": [
+    "X-Air",
+    "X18",
+    "XR18",
+    "XR16",
+    "XR12",
+    "OSC"
+  ],
+  "author": "Carter Fritsch",
+  "license": "MIT",
+  "homepage": "https://github.com/sk115/xair#readme"
+}
