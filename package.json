@@ -1,14 +1,11 @@
 {
   "name": "xair",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Interface library for OSC communication with the Behringer X AIR Series Digital Mixers",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sk115/xair.git"
+    "url": "git+https://github.com/sk115/xair.js.git"
   },
   "keywords": [
     "X-Air",
